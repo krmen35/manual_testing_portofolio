@@ -26,6 +26,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.1 Roles assigned to the project and persons allocated
 QA Senior, 2 Mid QA
 
+JIRA test link:Final Project/jira.jpg
+[Jira](Final Project/jira.jpg)
+
 
 #### 1.1.2 Entry criteria defined
 All stories are implemented
